@@ -1,0 +1,44 @@
+{
+  "songs": [
+    {
+      "name": "Blinding Lights",
+      "single": "The Weeknd",
+      "time": "03:21",
+      "likes": 5000000,
+      "status": "unactive",
+      "id": "3311"
+    },
+    {
+      "name": "Shape of You",
+      "single": "Ed Sheeran",
+      "time": "03:53",
+      "likes": 4000000,
+      "status": "unactive",
+      "id": "d64a"
+    },
+    {
+      "name": "Levitating",
+      "single": "Dua Lipa",
+      "time": "03:23",
+      "likes": 3000000,
+      "status": "active",
+      "id": "f8c3"
+    },
+    {
+      "name": "Stay",
+      "single": "Justin Bieber & Kid LAROI",
+      "time": "02:21",
+      "likes": 3500000,
+      "status": "active",
+      "id": "2175"
+    },
+    {
+      "name": "Bad Guy",
+      "single": "Billie Eilish",
+      "time": "03:14",
+      "likes": 4500000,
+      "status": "unactive",
+      "id": "33e9"
+    }
+  ]
+}
